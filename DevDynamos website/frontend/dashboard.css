@@ -1,0 +1,200 @@
+.desktop-2-child,
+.desktop-2-item {
+  position: absolute;
+  height: calc(100% - 614px);
+  width: calc(100% - 911px);
+  top: 614px;
+  right: 911px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-2-item {
+  height: calc(100% - 616px);
+  width: calc(100% - 923px);
+  top: 0;
+  right: 0;
+  bottom: 616px;
+  left: 923px;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: -276px;
+  left: calc(50% - 880px);
+  background-color: var(--color-midnightblue);
+  filter: blur(431px);
+  width: 1741px;
+  height: 435px;
+}
+.peertutorhub1-1-icon1 {
+  position: absolute;
+  top: 22px;
+  left: calc(50% - 580px);
+  width: 179px;
+  height: 95px;
+  object-fit: cover;
+}
+.desktop-2-child1,
+.log-out {
+  text-decoration: none;
+  position: absolute;
+}
+.desktop-2-child1 {
+  top: 60px;
+  left: calc(50% + 384px);
+  border-radius: var(--br-smi);
+  background: linear-gradient(180deg, #115d88, #89a9bc);
+  width: 150px;
+  height: 52px;
+}
+.log-out {
+  top: 69px;
+  left: calc(50% + 406px);
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4 {
+  position: absolute;
+  top: 426px;
+  left: calc(50% - 580px);
+  border-radius: var(--br-23xl);
+  background-color: var(--color-gainsboro);
+  width: 360px;
+  height: 467px;
+}
+.desktop-2-child3,
+.desktop-2-child4 {
+  left: calc(50% - 180px);
+}
+.desktop-2-child4 {
+  left: calc(50% + 220px);
+}
+.add-class,
+.full-stack-web-development,
+.mathematics-for-machine {
+  position: absolute;
+  top: 820px;
+  left: calc(50% + 326px);
+  letter-spacing: 0.3em;
+  font-weight: 600;
+}
+.full-stack-web-development,
+.mathematics-for-machine {
+  top: 816px;
+  left: calc(50% - 135px);
+  display: flex;
+  align-items: flex-end;
+  width: 269px;
+  height: 41px;
+}
+.full-stack-web-development {
+  top: 813px;
+  left: calc(50% - 515px);
+  width: 230px;
+  height: 44px;
+}
+.desktop-2-child5 {
+  top: 776.5px;
+  left: calc(50% - 580.5px);
+  border-top: 1px solid var(--color-black);
+  width: 361.05px;
+  height: 1px;
+}
+.desktop-2-child5,
+.desktop-2-child6,
+.desktop-2-child7 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-2-child6 {
+  top: 776.5px;
+  left: calc(50% - 180.47px);
+  border-top: 1px solid var(--color-black);
+  width: 361.05px;
+  height: 1px;
+}
+.desktop-2-child7 {
+  bottom: 17px;
+  left: calc(50% - 280px);
+  border-radius: var(--br-11xl);
+  background: conic-gradient(
+    from 268.64deg at 50% 50%,
+    #2991b2 -152.6deg,
+    #7a0f7c 6.8deg,
+    #2991b2 207.4deg,
+    #7a0f7c 366.8deg
+  );
+  filter: blur(0);
+  border: 1px solid var(--color-black);
+  width: 560px;
+  height: 17px;
+}
+.my-dashboard {
+  margin: 0;
+  position: absolute;
+  top: 159px;
+  left: calc(50% - 591px);
+  font-size: 61px;
+  font-style: italic;
+  font-weight: 500;
+  font-family: var(--font-josefin-sans);
+  color: var(--color-white);
+}
+.ellipse-div {
+  position: absolute;
+  top: 483px;
+  left: calc(50% + 282px);
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 126px #2b2b58;
+  border: 18px solid var(--color-black);
+  box-sizing: border-box;
+  width: 236px;
+  height: 236px;
+}
+.istockphoto-1225992522-612x612-icon {
+  position: absolute;
+  top: 520px;
+  left: calc(50% + 327px);
+  width: 145.98px;
+  height: 163px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.full-stack-development-main-1,
+.mathsforml-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 426px;
+  left: calc(50% - 180px);
+  border-radius: var(--br-23xl) var(--br-23xl) 0 0;
+  width: 360px;
+  height: 351px;
+  background-image: url(./public/mathsforml-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.full-stack-development-main-1 {
+  left: calc(50% - 580px);
+  background-image: url(./public/fullstackdevelopmentmain-1@3x.png);
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1049px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

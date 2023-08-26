@@ -13,11 +13,14 @@ body {
   --font-size-8xl: 27px;
 
   /* Colors */
+  --color-gray: #07010d;
   --color-black: #000;
   --color-white: #fff;
   --color-gainsboro: #d9d9d9;
+  --color-midnightblue: rgba(31, 7, 54, 0.66);
 
   /* border radiuses */
+  --br-11xl: 30px;
   --br-23xl: 42px;
   --br-smi: 13px;
 }
