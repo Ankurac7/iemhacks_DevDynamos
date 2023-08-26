@@ -14,8 +14,10 @@ body {
 
   /* Colors */
   --color-black: #000;
+  --color-white: #fff;
   --color-gainsboro: #d9d9d9;
 
   /* border radiuses */
   --br-23xl: 42px;
+  --br-smi: 13px;
 }
