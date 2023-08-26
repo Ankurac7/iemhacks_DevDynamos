@@ -5,13 +5,17 @@ body {
 
 :root {
   /* fonts */
+  --font-josefin-sans: "Josefin Sans";
   --font-inter: Inter;
 
   /* font sizes */
-  --font-size-51xl: 70px;
+  --font-size-lg: 18px;
   --font-size-8xl: 27px;
 
   /* Colors */
   --color-black: #000;
   --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-23xl: 42px;
 }
