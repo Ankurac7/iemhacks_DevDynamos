@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .desktop-1-child {
   position: absolute;
   height: calc(100% - 865px);
